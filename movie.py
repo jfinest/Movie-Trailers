@@ -14,8 +14,8 @@ replacement = media1.Movie("The Replacement",
 "http://i.imgur.com/hx5YAyn.jpg", "https://youtube.com/watch?v=MJVxQhCJG_8")
 
 interstellar = media1.Movie("Interstellar",
-"https://littleredreviewer.files.wordpress.com/2014/11/interstellar-movie-
-poster.jpg", "https://www.youtube.com/watch?v=Rt2LHkSwdPQ")
+"""https://littleredreviewer.files.wordpress.com/2014/11/interstellar-movie-
+poster.jpg", "https://www.youtube.com/watch?v=Rt2LHkSwdPQ""")
 
 miles = media1.Movie(" 8 Miles ",
 "https://upload.wikimedia.org/wikipedia/en/8/8b/Eight_mile_ver2.jpg",
