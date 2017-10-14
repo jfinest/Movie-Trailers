@@ -1,10 +1,9 @@
 body {
-    padding-top: 80px;
-    background: #8E0E00; /* fallback for old browsers */
+    background: #283048;  /* fallback for old browsers */
     /* Chrome 10-25, Safari 5.1-6 */
-    background: -webkit-linear-gradient(to left, #8E0E00 , #1F1C18);
+    background: -webkit-linear-gradient(to right, #859398, #283048);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    background: linear-gradient(to left, #8E0E00 , #1F1C18);
+    background: linear-gradient(to right, #859398, #283048);
 }
 #trailer .modal-dialog {
     margin-top: 200px;
